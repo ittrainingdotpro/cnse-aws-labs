@@ -1,0 +1,3 @@
+#The autoprov_cfg code
+
+autoprov -cfg init AWS -mn "CP-Management" -tn "AWS-Scale-Lab-Template" -otp "Checkpoint123" -ver "R81" -po "AWS-Scale-Policy" -cn "AWS-Scale-Lab-Controller" –r eu-west-1 -iam
